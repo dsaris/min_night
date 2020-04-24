@@ -3,10 +3,9 @@ title: Ini posting 1
 author: Ariswa
 date: '2020-04-24'
 slug: ini-posting-1
-categories:
-  - R
-tags:
-  - R Markdown
+categories: ["R"]
+
+tags: ["R Markdown"]
 ---
 Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama   
 
