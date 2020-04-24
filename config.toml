@@ -12,8 +12,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Nate Day"
-    description = "An easy reading Hugo blog with night-mode."
-    logo = "favicon/android-chrome-192x192.png"
+    description = "Seksi Perencanaan dan Evaluasi Pemeliharaan"
+    logo = "favicon/logo1.png"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
     accent = "#386890" # dark colors do best
