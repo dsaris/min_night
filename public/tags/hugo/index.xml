@@ -6,6 +6,7 @@
     <description>Recent content in hugo on PEP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +18,15 @@
       
       <guid>/project/project1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>posting di subdir project 1</title>
+      <link>/project/posting-di-subdir-project-1/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/posting-di-subdir-project-1/</guid>
+      <description>ini posting untuk subdirectori project 1</description>
     </item>
     
   </channel>
