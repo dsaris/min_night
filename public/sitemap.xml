@@ -12,11 +12,6 @@
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
@@ -33,11 +28,6 @@
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -67,6 +57,11 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2020/04/24/ini-posting-1/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url>
@@ -82,6 +77,10 @@
   
   <url>
     <loc>/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
   </url>
   
 </urlset>
