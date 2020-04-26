@@ -11,17 +11,13 @@ repo: ''
 weight: 0
 output:
   html_document:
-    theme: null
+    theme: darkly
     highlight: null
     css: styles.css
 ---
-```{css, echo=FALSE}
-body {
-  color: black;
-  background-image: url("https://ariswa.files.wordpress.com/2020/04/tile5.jpg");
-  
-}
-```
+
 
 ## Apakah text ini berwarna merah  
-ini segedar menguji apakah text berwarna merah
+ini segedar menguji penggunaan theme bootstrap  
+ini segedar menguji penggunaan theme bootstrap  
+ini segedar menguji penggunaan theme bootstrap
