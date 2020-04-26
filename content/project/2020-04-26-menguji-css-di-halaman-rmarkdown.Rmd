@@ -1,0 +1,25 @@
+---
+title: Menguji CSS di halaman Rmarkdown
+author: aris
+date: '2020-04-26'
+slug: menguji-css-di-halaman-rmarkdown
+categories: []
+tags:
+  - R Markdown
+description: ''
+repo: ''
+weight: 0
+output:
+  html_document:
+    theme: null
+    highlight: null
+    css: styles.css
+---
+```{css, echo=FALSE}
+body {
+  color: red;
+}
+```
+
+## Apakah text ini berwarna merah  
+ini segedar menguji apakah text berwarna merah
