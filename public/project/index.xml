@@ -6,7 +6,7 @@
     <description>Recent content in Projects on PEP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,19 @@
       
       <guid>/project/project1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Menguji CSS di halaman Rmarkdown</title>
+      <link>/project/menguji-css-di-halaman-rmarkdown/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/menguji-css-di-halaman-rmarkdown/</guid>
+      <description>Apakah text ini berwarna merah ini segedar menguji penggunaan theme bootstrap
+ini segedar menguji penggunaan theme bootstrap
+ini segedar menguji penggunaan theme bootstrap
+ R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.</description>
     </item>
     
     <item>
