@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ovhs on PEP</title>
+    <link>/ovh/</link>
+    <description>Recent content in Ovhs on PEP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/ovh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test posting OVH</title>
+      <link>/ovh/test-posting-ovh/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ovh/test-posting-ovh/</guid>
+      <description>OVH Kiln 1Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama
+Ini sedang mencoba posting pertamaIni sedang mencoba posting kedua</description>
+    </item>
+    
+  </channel>
+</rss>
