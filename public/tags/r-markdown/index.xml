@@ -6,21 +6,17 @@
     <description>Recent content in R Markdown on PEP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menguji CSS di halaman Rmarkdown</title>
       <link>/project/menguji-css-di-halaman-rmarkdown/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/project/menguji-css-di-halaman-rmarkdown/</guid>
-      <description>Apakah text ini berwarna merah ini segedar menguji penggunaan theme bootstrap
+      <description>Apakah text ini berwarna merahini segedar menguji penggunaan theme bootstrap
 ini segedar menguji penggunaan theme bootstrap
 ini segedar menguji penggunaan theme bootstrap
- R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.</description>
     </item>
     
@@ -30,9 +26,9 @@ When you click the Knit button a document will be generated that includes both c
       <pubDate>Thu, 23 Apr 2020 21:13:14 -0500</pubDate>
       
       <guid>/2020/04/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
@@ -41,8 +37,8 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/04/24/ini-posting-1/</guid>
-      <description> Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama
-Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama  </description>
+      <description>Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama
+Ini sedang mencoba posting pertamaIni sedang mencoba posting kedua</description>
     </item>
     
     <item>

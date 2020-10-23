@@ -10,4 +10,11 @@ tags: ["R Markdown"]
 Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama Ini sedang mencoba posting pertama   
 
 1. Ini sedang mencoba posting pertama 
- 2. Ini sedang mencoba posting pertama 
+ 2. Ini sedang mencoba posting kedua  
+ 3. Ini sedang mencoba posting kedua
+ 
+ $~$
+ $~$
+ Teks after whitespace
+ 
+ 
