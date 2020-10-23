@@ -1,0 +1,38 @@
+---
+title: Sample Value box
+author: Aries W
+date: '2020-10-23'
+slug: sample-value-box
+categories: []
+tags:
+  - R Markdown
+output:
+  flexdashboard::flex_dashboard:
+    orientation: rows
+---
+
+<link href="/rmarkdown-libs/font-awesome/css/all.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/font-awesome/css/v4-shims.css" rel="stylesheet" />
+
+
+<div id="articles-per-day" class="section level3">
+<h3>Articles per Day</h3>
+<pre class="r"><code>articles = computeArticles()
+valueBox(articles, icon = &quot;fa-pencil&quot;)</code></pre>
+<span class="value-output" data-icon="fa-pencil">45</span>
+</div>
+<div id="comments-per-day" class="section level3">
+<h3>Comments per Day</h3>
+<pre class="r"><code>comments = computeComments()
+valueBox(comments, icon = &quot;fa-comments&quot;)</code></pre>
+<span class="value-output" data-icon="fa-comments">126</span>
+</div>
+<div id="spam-per-day" class="section level3">
+<h3>Spam per Day</h3>
+<pre class="r"><code>spam = computeSpam()
+valueBox(
+  spam, icon = &quot;fa-trash&quot;,
+  color = ifelse(spam &gt; 10, &quot;warning&quot;, &quot;primary&quot;)
+)</code></pre>
+<span class="value-output" data-icon="fa-trash" data-color="bg-warning">15</span>
+</div>
