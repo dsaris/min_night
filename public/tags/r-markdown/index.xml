@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sample Value box</title>
+      <title>Dashboard Value Boxes</title>
       <link>/ovh/sample-value-box/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/ovh/sample-value-box/</guid>
-      <description>Articles per Dayarticles = computeArticles()valueBox(articles, icon = &amp;quot;fa-pencil&amp;quot;)45Comments per Daycomments = computeComments()valueBox(comments, icon = &amp;quot;fa-comments&amp;quot;)126Spam per Dayspam = computeSpam()valueBox(spam, icon = &amp;quot;fa-trash&amp;quot;,color = ifelse(spam &amp;gt; 10, &amp;quot;warning&amp;quot;, &amp;quot;primary&amp;quot;))15</description>
+      <description>Dashboard Value Boxeswindow.FlexDashboardComponents = [];/*Dashboard CSS from Keen IO Dashboards(https://github.com/keen/dashboards)*/body {background: #f2f2f2;padding: 60px 0 0 8px; /* padding-top overridden by theme */}body hr {border-color: #d7d7d7;margin: 10px 0;}.navbar-inverse .navbar-nav  li  a,.navbar .navbar-brand {text-decoration: none;}.navbar-logo {margin-top: 1px;}.navbar-logo img {margin-right: 12px;}.</description>
     </item>
     
     <item>
