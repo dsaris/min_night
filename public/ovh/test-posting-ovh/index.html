@@ -215,8 +215,6 @@ $(document).ready(function(){
 
 
     <br> <div class="text-justify">
-<link href="/rmarkdown-libs/font-awesome/css/all.css" rel="stylesheet" />
-<link href="/rmarkdown-libs/font-awesome/css/v4-shims.css" rel="stylesheet" />
 
 
 <div id="ovh-kiln-1" class="section level2">
@@ -231,24 +229,24 @@ $(document).ready(function(){
 <p><span class="math inline">\(~\)</span> <span class="math inline">\(~\)</span> Teks after whitespace</p>
 <div id="articles-per-day" class="section level3">
 <h3>Articles per Day</h3>
-<pre class="r"><code>articles = computeArticles()
-valueBox(articles, icon = &quot;fa-pencil&quot;)</code></pre>
-<span class="value-output" data-icon="fa-pencil">45</span>
-</div>
-<div id="comments-per-day" class="section level3">
-<h3>Comments per Day</h3>
-<pre class="r"><code>comments = computeComments()
-valueBox(comments, icon = &quot;fa-comments&quot;)</code></pre>
-<span class="value-output" data-icon="fa-comments">126</span>
+<pre class="r"><code>slide(col = pal_seeblau[[3]], border = Petrol, lwd = 2)  # set colors of slide background and border
+mark(labels = 10^0.5, x = .02, y = .9, col_bg = pal_pinky[[1]], font = 3, cex = 3)</code></pre>
+<p><img src="/ovh/2020-10-23-test-posting-ovh_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
 </div>
 <div id="spam-per-day" class="section level3">
 <h3>Spam per Day</h3>
-<pre class="r"><code>spam = computeSpam()
-valueBox(
-  spam, icon = &quot;fa-trash&quot;,
-  color = ifelse(spam &gt; 10, &quot;warning&quot;, &quot;primary&quot;)
-)</code></pre>
-<span class="value-output" data-icon="fa-trash" data-color="bg-warning">15</span>
+<pre class="r"><code># A sentence to plot: 
+s &lt;- c(&quot;Markieren&quot;,
+       &quot;ist ein Bestandteil&quot;,
+       &quot;von Studieren.&quot;)
+
+# Create a new plot (of type &quot;slide&quot;):
+mark(labels = s,
+     x = 0, y = .85, y_layout = .03,
+     col_bg = Seeblau,
+     cex = 1.5,
+     new_plot = &quot;slide&quot;)</code></pre>
+<p><img src="/ovh/2020-10-23-test-posting-ovh_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 </div>
 </div>
 </div>
